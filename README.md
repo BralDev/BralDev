@@ -1,8 +1,6 @@
-# Hola, soy Jesus Joaquin! 👋
+## Hola, soy Jesus Joaquin! 👋
 
-### 🚀 Ingeniero de Sistemas e Informática | Backend Developer
-
-Apasionado por construir soluciones robustas y escalables. Me especializo en el desarrollo **Backend**, con sólida experiencia en el diseño de arquitecturas limpias, gestión de bases de datos y optimización de procesos. Mi enfoque actual es consolidar mi carrera como desarrollador Backend senior.
+Ingeniero de Sistemas apasionado por construir soluciones robustas y escalables. Me especializo en el desarrollo **Backend**, con sólida experiencia en el diseño de arquitecturas limpias, gestión de bases de datos y optimización de procesos. Mi enfoque actual es consolidar mi carrera como desarrollador Backend senior.
 
 ---
 
