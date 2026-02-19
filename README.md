@@ -1,7 +1,5 @@
 Bachiller en Ingeniería de Sistemas e Informática, apasionado por construir soluciones robustas y escalables. Me especializo en el desarrollo **Backend**, con sólida experiencia en el diseño de arquitecturas limpias, gestión de bases de datos y optimización de procesos. Mi enfoque actual es consolidar mi carrera como desarrollador Backend senior.
 
----
-
 ### Lenguajes y Frameworks Backend  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -24,8 +22,6 @@ Bachiller en Ingeniería de Sistemas e Informática, apasionado por construir so
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
----
 
 ### 📫 Conectemos 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jesusjoaquinparedes/)
